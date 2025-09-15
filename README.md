@@ -38,7 +38,7 @@ Phase 1: Feature Extraction
 
 This advanced approach yielded a significant performance improvement.
 
--   Final Test Accuracy: 71.35% (Update this with your final accuracy!)*
+-   Final Test Accuracy: 71.35% (Update this with your final accuracy!)
 
 The training plot clearly shows the two phases. The model learns rapidly during the initial phase and then steadily improves during fine-tuning.
 
